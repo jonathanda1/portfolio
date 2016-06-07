@@ -147,7 +147,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
+    background: url(../img/bg-img.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -397,6 +397,13 @@ body {
 #P4 {
   background: url(../img/P4.png);
   background-size: cover;
+}
+
+#pic {
+  background: url(../img/IMG_0849.JPG);
+  background-size: cover;
+  height: 500px;
+  text-align: center;
 }
 
 
